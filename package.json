@@ -1,0 +1,9 @@
+{
+  "name": "solar-reiki-v3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solar Reiki V3 - landing premium para sesiones de Reiki a distancia",
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
